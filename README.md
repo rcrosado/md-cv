@@ -7,7 +7,7 @@ A jekyll-based markdown CV, forked from [Ben Moore's fork](https://github.com/bl
 To build, clone the repo and run jekyll:
 
 ```bash
-git clone git://github.com/blmoore/md-cv
+git clone git@github.com:rcrosado/md-cv.git
 cd md-cv/
 jekyll serve
 ```
