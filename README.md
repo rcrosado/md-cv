@@ -1,6 +1,6 @@
 # md-cv
 
-A jekyll-based markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details. Forked from the (great) markdown CV of [elipapa](https://github.com/elipapa/markdown-cv).
+A jekyll-based markdown CV, forked from [Ben Moore's fork](https://github.com/blmoore/md-cv) of the (great) markdown CV of [elipapa](https://github.com/elipapa/markdown-cv). Ben's original README below.
 
 ### How to use
 
